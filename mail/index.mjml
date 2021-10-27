@@ -1,0 +1,48 @@
+<mjml>
+  <mj-head>
+    <mj-title>Zadanie mailing</mj-title>
+    <mj-preview>Zadanie mailing</mj-preview>
+    <mj-style>
+
+    <mj-style>
+  </mj-head>
+    
+  <mj-body width="640px" >
+    <mj-section padding="0">
+        <mj-column>
+            <mj-image src="./assets/savings.jpg"/ padding="0">
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 10px"  background-color="#FFF">
+      <mj-column>
+        <mj-text font-family="Open Sans"  font-size="16px" align="center">
+            Hello Jonh
+        </mj-text>
+        <mj-text font-family="Open Sans" align="center" line-height="18px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px"  background-color="#FFF">
+      <mj-column>
+        <mj-image src="./assets/outline_phone.png" padding="0" width="20px" align="center"/>
+        <mj-text align="center" font-family="Open Sans" font-size="12px">123456789</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./assets/outline_email.png" padding="0" width="20px" align="center"/>
+        <mj-text align="center" font-family="Open Sans" font-size="12px">email@email.com</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./assets/outline_chat.png" padding="0" width="20px" align="center"/>
+        <mj-text align="center" font-family="Open Sans" font-size="12px">test@test.com</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 10px 30px"  background-color="#FFF">
+      <mj-column>
+        <mj-text align="center" font-size="9px" font-family="Open Sans" line-height="12px">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia. </mj-text>
+    </mj-section>
+  </mj-body>
+</mjml>
